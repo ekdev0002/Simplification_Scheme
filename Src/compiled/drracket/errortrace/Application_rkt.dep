@@ -1,0 +1,1 @@
+("6.1.1" ("167e6c503e0846edfd10ef8baae53687b36013ea" . "ed81f918d3cc5658625e9df91388a421a8a366d6") (collects #"racket" #"gui.rkt") #"C:\\Users\\yaber\\Desktop\\oubliettes\\ING\\TP_Final_Simpli\\Metier.rkt" (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt"))
